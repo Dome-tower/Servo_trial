@@ -6,3 +6,4 @@ this uses C++ language
 3. each servo can only handle limited torque, so even if the volatage is constant it can only hadle a certain limit of current
 4. torque needs current and speed of the arm in servo needs proper voltage
 5. in the for loops it should go something like this [ for( intialization, condition, increment ) ]
+6. always mention which " #include " , then name the servo, mention the starting angle and mention the pin number of the arduino the servo is attached to 
